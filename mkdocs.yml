@@ -16,9 +16,16 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   language: zh
+markdown_extensions:
+  - attr_list
 nav:
   - 主页: index.md
   - 北京大学:
-      - 胡阅 北京大学考古文博学院 23: PKU/HY.md
-      - 韩奇晔  北京大学医学部基础医学院基础医学专业 23: PKU/HQY.md
-  - About: about.md
+    - 胡阅 北京大学考古文博学院 23: PKU/HY.md
+    - 韩奇晔  北京大学医学部基础医学院基础医学专业 23: PKU/HQY.md
+    - 沈楠奇 北京大学医学部 基础医学院 临床医学八年制专业 24: PKU/SNQ.md
+  - 清华大学:
+    - 刘逸阳 清华大学行健书院 理论与应用力学+土木水利与海洋工程 23: THU/LYY.md
+    - 方备航 清华大学未央书院 数理基础科学+能源与动力工程 23: THU/FBH.md
+  - 中国科学院大学:
+    - 潘天麟 中国科学院大学人工智能学院 23: UCAS/PTL.md
