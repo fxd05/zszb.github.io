@@ -22,7 +22,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   language: zh  
-copyright: Copyright &copy; 2023-2025 招生指北
+copyright: Copyright &copy; 2023-2026 招生指北
 repo_url: https://github.com/fxd05/zszb.github.io
 repo_name: zszb.github.io
 markdown_extensions: 
@@ -67,9 +67,9 @@ nav:
   - 主页: index.md
   - 北京大学:
     - 曾同学 北京大学工学院 25: PKU/ZBW.md
+    - 沈同学 北京大学医学部 基础医学院 临床医学八年制专业 24: PKU/SNQ.md
     - 胡同学 北京大学考古文博学院 23: PKU/HY.md
     - 韩同学  北京大学医学部基础医学院基础医学专业 23: PKU/HQY.md
-    - 沈同学 北京大学医学部 基础医学院 临床医学八年制专业 24: PKU/SNQ.md
   - 清华大学:
     - 刘同学 清华大学行健书院 理论与应用力学+土木水利与海洋工程 23: THU/LYY.md
     - 方同学 清华大学未央书院 数理基础科学+能源与动力工程 23: THU/FBH.md
@@ -77,21 +77,22 @@ nav:
     - 潘同学 中国科学院大学人工智能学院 23: UCAS/PTL.md
   - 浙江大学:
     - 人文社科类: 
+      - 褚同学 浙江大学社会科学试验班 分流至会计学 24: ZJU/W/CYY.md
       - 叶同学 浙江大学工商管理专业三一录取 23: ZJU/W/YRH.md
       - 谢同学 浙江大学外国语言文学类翻译专业→社会学 23: ZJU/W/XFY.md
       - 徐同学 浙江大学社会科学试验班分流财政学 23: ZJU/W/XJS.md
       - 顾同学 浙江大学智能财务荣誉项目班 23: ZJU/W/GZQ.md
       - 褚同学 浙江大学社会学 三一 23: ZJU/W/CXY.md
-      - 褚同学 浙江大学社会科学试验班 分流至会计学 24: ZJU/W/CYY.md
     - 偏理工科类:
+      - 郑同学 浙江大学强基基础医学 25: ZJU/L/ZY.md
+      - 王同学 浙江大学工科试验班（材料化工高分子） 分流至材料科学与工程 25: ZJU/L/WZ.md
+      - 邵同学 浙江大学医学试验班（临床八年制）——俗称巴德年班 24: ZJU/L/SW.md
+      - 方同学 浙江大学工科试验班(竺可桢学院图灵班) 24: ZJU/L/FWC.md
       - 汪同学 浙江大学数字金融（俗称数学金融学双学位项目） 23: ZJU/L/WYH.md
       - 鲁同学 浙江大学数字金融 23: ZJU/L/LS.md 
       - 鲍同学 浙江大学机械工程 23: ZJU/L/BWC.md
       - 徐同学 浙江大学心理学 23: ZJU/L/XCZ.md
       - 汪同学 浙江大学自动化（控制） 23: ZJU/L/WCY.md
-      - 邵同学 浙江大学医学试验班（临床八年制）——俗称巴德年班 24: ZJU/L/SW.md
-      - 方同学 浙江大学工科试验班(竺可桢学院图灵班) 24: ZJU/L/FWC.md
-      - 郑同学 浙江大学强基基础医学 25: ZJU/L/ZY.md
   - 上海交通大学:
     - 王同学 上海交通大学IEEE试点班 23: SJTU/WXR.md
     - 夏同学 上海交通大学 化学(致远计划) 23: SJTU/XJL.md
@@ -99,10 +100,10 @@ nav:
   - 复旦大学:
     - 杨同学 复旦大学人文科学试验班（文物与博物馆系） 25: FDU/YYQ.md
     - 李同学 复旦大学临床医学八年临床医师班 25: FDU/LXY.md
+    - 鲁同学 复旦大学 公共卫生学院公共事业管理 24: FDU/LXW.md
     - 郑同学 复旦大学 数学 23: FDU/ZGH.md
     - 俞同学 复旦大学临床医学八年制 23: FDU/YBY.md
     - 孙同学 复旦大学新闻学院 23: FDU/SJY.md
-    - 鲁同学 复旦大学 公共卫生学院公共事业管理 24: FDU/LXW.md
   - 武汉大学:
     - 施同学 武汉大学 口腔医学-->法学 23: WHU/SXY.md
   - 哈尔滨医科大学:
